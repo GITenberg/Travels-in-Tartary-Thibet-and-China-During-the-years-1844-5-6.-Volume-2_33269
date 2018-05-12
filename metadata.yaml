@@ -1,0 +1,39 @@
+_repo: Travels-in-Tartary-Thibet-and-China-During-the-years-1844-5-6.-Volume-2_33269
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hazlitt, William
+    birthdate: 1811
+    deathdate: 1893
+    gutenberg_agent_id: '34913'
+    url: http://www.gutenberg.org/2009/agents/34913
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huc, Evariste Régis
+    aliases:
+    - Huc, Régis Evariste
+    - Huc, Évariste Régis
+    - Huc, Evariste Regis
+    birthdate: 1813
+    deathdate: 1860
+    gutenberg_agent_id: '36020'
+    url: http://www.gutenberg.org/2009/agents/36020
+description: ''
+gutenberg_issued: '2010-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Asia, Central -- Description and travel'
+- !lcsh 'Tibet Autonomous Region (China) -- Description and travel'
+title: Travels in Tartary, Thibet, and China During the years 1844-5-6. Volume 2
+url: http://www.gutenberg.org/ebooks/33269
